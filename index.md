@@ -10,3 +10,6 @@ The Manoa Organization Database (MOD) is a web application that functions as a c
 
 ## Mockups
 
+### Admin Home Page
+
+### User Home Page
