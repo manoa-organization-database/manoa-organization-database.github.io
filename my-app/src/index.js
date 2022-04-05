@@ -61,9 +61,13 @@ class UserProfile extends React.Component {
             <Grid.Column stretched width={12}>
               <Segment>
                 <Container>
-                  <Card centered>
-                    <Image src='https://manoa.hawaii.edu/speakers/wp-content/uploads/logo-1.png' wrapped ui={false}/>
+                  <Card centered fluid>
                     <Card.Content>
+                      <Image
+                          floated='left'
+                          size='tiny'
+                          src='https://manoa.hawaii.edu/speakers/wp-content/uploads/logo-1.png'
+                      />
                       <Card.Header>John Doe</Card.Header>
                       <Card.Meta>
                         <span>john@foo.com</span>
