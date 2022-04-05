@@ -1,0 +1,13 @@
+.ui.borderless.topmenu.menu {
+  background-color: #f5f5f5;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.center.aligned.container {
+  margin-bottom: 50px;
+}
+
+.ui.large.centered.image {
+  margin-bottom: 50px;
+}
