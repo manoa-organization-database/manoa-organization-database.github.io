@@ -1,0 +1,13 @@
+.ui.borderless.topmenu.menu{
+  background-color: #f5f5f5;
+  box-shadow: none;
+  border: 0 none !important;
+}
+
+.ui.fluid.image {
+  margin-bottom: 15px
+}
+
+.ui.container.cards {
+  margin-top: 20px;
+}
