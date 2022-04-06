@@ -1,13 +1,3 @@
-Project Members:
-* Michael Jake Sumaylo
-* Cacie Sonomura
-* Cameron Sumida
-  * [https://sumidaca.github.io/](https://sumidaca.github.io/)
-* Justin Jandoc
-  * https://justinjandoc.github.io/
-* Jeremiah Dy
-  * https://github.com/jeremiah-dy
-
 ## Github Repository
 [Repository Link](https://github.com/manoa-organization-database/manoa-organization-database)
 
@@ -15,6 +5,7 @@ Project Members:
 
 * [Overview](#overview)
 * [Mockups](#mockups)
+* [Team]
 
 ## Overview
 
@@ -40,3 +31,15 @@ The Manoa Organization Database (MOD) is a web application that functions as a c
 ### Browse Clubs Page
 
 ![](doc/browse-clubs-page-mockup.png)
+
+## Team
+
+Project Members:
+* Michael Jake Sumaylo
+* Cacie Sonomura
+* Cameron Sumida
+  * [https://sumidaca.github.io/](https://sumidaca.github.io/)
+* Justin Jandoc
+  * https://justinjandoc.github.io/
+* Jeremiah Dy
+  * https://github.com/jeremiah-dy
