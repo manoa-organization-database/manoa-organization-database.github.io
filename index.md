@@ -8,7 +8,7 @@
 * Jeremiah Dy
 
 ## Github Repository
-[Repository Link]()
+[Repository Link](https://github.com/manoa-organization-database/manoa-organization-database)
 
 ## Table of contents
 
