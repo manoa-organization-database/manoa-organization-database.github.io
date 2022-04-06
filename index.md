@@ -1,5 +1,3 @@
-# Manoa Organization Database
-
 ## Project Members
 
 * Michael Jake Sumaylo
