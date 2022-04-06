@@ -4,7 +4,7 @@ Project Members:
 * Cameron Sumida
 * Justin Jandoc
 * Jeremiah Dy
-  * [Jeremiah's Github] (https://github.com/jeremiah-dy)
+  * https://github.com/jeremiah-dy
 
 ## Github Repository
 [Repository Link](https://github.com/manoa-organization-database/manoa-organization-database)
