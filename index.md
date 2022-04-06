@@ -1,4 +1,15 @@
 
+## Project Members
+
+* Michael Jake Sumaylo
+* Cacie Sonomura
+* Cameron Sumida
+* Justin Jandoc
+* Jeremiah Dy
+
+## Github Repository
+[Repository Link]()
+
 ## Table of contents
 
 * [Overview](#overview)
