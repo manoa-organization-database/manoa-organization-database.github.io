@@ -2,6 +2,7 @@ Project Members:
 * Michael Jake Sumaylo
 * Cacie Sonomura
 * Cameron Sumida
+  * [https://sumidaca.github.io/](https://sumidaca.github.io/)
 * Justin Jandoc
 * Jeremiah Dy
   * https://github.com/jeremiah-dy
