@@ -5,7 +5,7 @@
 
 * [Overview](#overview)
 * [Mockups](#mockups)
-* [Team]
+* [Team](#team)
 
 ## Overview
 
