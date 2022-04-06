@@ -1,3 +1,5 @@
+# Manoa Organization Database
+
 ## Github Repository
 [Repository Link](https://github.com/manoa-organization-database/manoa-organization-database)
 
