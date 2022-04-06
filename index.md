@@ -4,6 +4,7 @@ Project Members:
 * Cameron Sumida
   * [https://sumidaca.github.io/](https://sumidaca.github.io/)
 * Justin Jandoc
+  * https://justinjandoc.github.io/
 * Jeremiah Dy
   * https://github.com/jeremiah-dy
 
