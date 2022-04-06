@@ -1,7 +1,3 @@
-
-
-## Project Members
-
 * Michael Jake Sumaylo
 * Cacie Sonomura
 * Cameron Sumida
