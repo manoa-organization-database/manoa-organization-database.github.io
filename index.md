@@ -47,4 +47,4 @@ Project Members:
 * Justin Jandoc
   * [https://justinjandoc.github.io/](https://justinjandoc.github.io/)
 * Jeremiah Dy
-  * [https://github.com/jeremiah-dy](https://github.com/jeremiah-dy)
+  * [https://jeremiah-dy.github.io/](https://jeremiah-dy.github.io/)
