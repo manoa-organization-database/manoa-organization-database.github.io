@@ -40,6 +40,7 @@ Project Members:
 * Michael Jake Sumaylo
   * [https://msumaylo.github.io/](https://msumaylo.github.io/) 
 * Cacie Sonomura
+  * [https://caciems.github.io/](https://caciems.github.io/)
 * Cameron Sumida
   * [https://sumidaca.github.io/](https://sumidaca.github.io/)
 * Justin Jandoc
