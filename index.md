@@ -35,6 +35,7 @@ The Manoa Organization Database (MOD) is a web application that functions as a c
 ![](doc/browse-clubs-page-mockup.png)
 
 ## Team
+[Signed team contract (Google Docs)](https://docs.google.com/document/d/1UChPYIE-sgugvcdFsXJEnXW9ANwPD44ScJRYUDkU3s4/edit?usp=sharing)
 
 Project Members:
 * Michael Jake Sumaylo
