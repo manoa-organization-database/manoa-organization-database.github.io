@@ -34,7 +34,7 @@ The Manoa Organization Database (MOD) is a web application that functions as a c
 
 ### Filter Interests Page
 
-![](doc/interest-filter.png)
+![](doc/interests-filter.png)
 
 ### Change User Status (ADMIN ONLY)
 
