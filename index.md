@@ -8,6 +8,7 @@
 * [Overview](#overview)
 * [Mockups](#mockups)
 * [Team](#team)
+* [Deployment](#deployment)
 
 ## Overview
 
@@ -33,6 +34,9 @@ The Manoa Organization Database (MOD) is a web application that functions as a c
 ### Browse Clubs Page
 
 ![](doc/browse-clubs-page-mockup.png)
+
+## Deployment
+[Digital Ocean deployed application](http://157.230.5.143/)
 
 ## Team
 [Signed team contract (Google Docs)](https://docs.google.com/document/d/1UChPYIE-sgugvcdFsXJEnXW9ANwPD44ScJRYUDkU3s4/edit?usp=sharing)
