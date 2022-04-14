@@ -41,7 +41,7 @@ The Manoa Organization Database (MOD) is a web application that functions as a c
 
 ## Milestones
 *[M1](https://github.com/manoa-organization-database/manoa-organization-database/projects/1)
-*[M2](
+*[M2](https://github.com/manoa-organization-database/manoa-organization-database/projects/3)
 
 ## Team
 [Signed team contract (Google Docs)](https://docs.google.com/document/d/1UChPYIE-sgugvcdFsXJEnXW9ANwPD44ScJRYUDkU3s4/edit?usp=sharing)
