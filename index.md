@@ -7,8 +7,9 @@
 
 * [Overview](#overview)
 * [Mockups](#mockups)
-* [Team](#team)
 * [Deployment](#deployment)
+* [Milestones](#milestones)
+* [Team](#team)
 
 ## Overview
 
@@ -37,6 +38,10 @@ The Manoa Organization Database (MOD) is a web application that functions as a c
 
 ## Deployment
 [Digital Ocean deployed application](http://157.230.5.143/)
+
+## Milestones
+[M1](https://github.com/manoa-organization-database/manoa-organization-database/projects/1)
+[M2](
 
 ## Team
 [Signed team contract (Google Docs)](https://docs.google.com/document/d/1UChPYIE-sgugvcdFsXJEnXW9ANwPD44ScJRYUDkU3s4/edit?usp=sharing)
