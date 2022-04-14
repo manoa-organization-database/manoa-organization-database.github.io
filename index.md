@@ -20,21 +20,25 @@ The Manoa Organization Database (MOD) is a web application that functions as a c
 ### Landing Page
 ![](doc/landing-page.PNG)
 
-### User Home Page
+### User Profile
 
-![](doc/user-home-page-mockup.png)
+![](doc/user-profile.png)
 
-### Admin Home Page
+### Edit User Profile
 
-![](doc/admin-home-page-mockup.png)
+![](doc/edit-user-profile.png)
 
-### Club Admin Home Page
+### Club Home Page
 
-![](doc/club-admin-home-page.png)
+![](doc/mockup-club.png)
 
-### Browse Clubs Page
+### Filter Interests Page
 
-![](doc/browse-clubs-page-mockup.png)
+![](doc/interest-filter.png)
+
+### Change User Status (ADMIN ONLY)
+
+![](doc/change-user-status.png)
 
 ## Deployment
 [Digital Ocean deployed application](http://157.230.5.143/)
