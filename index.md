@@ -158,7 +158,7 @@ Admins can click the Edit Interests link to access the interests page, where the
 
 
 ## Deployment
-[Digital Ocean deployed application](http://157.230.5.143/)
+[Digital Ocean deployed application](https://manoa-organization-database.xyz/)
 
 ## Milestones
 * [M1](https://github.com/manoa-organization-database/manoa-organization-database/projects/1)
