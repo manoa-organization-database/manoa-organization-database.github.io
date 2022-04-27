@@ -1,5 +1,7 @@
 # Manoa Organization Database
 
+![ci-badge](https://github.com/manoa-organization-database/manoa-organization-database/workflows/ci-manoa-organization-database/badge.svg)
+
 ## Github Repository
 [Repository Link](https://github.com/manoa-organization-database/manoa-organization-database)
 
