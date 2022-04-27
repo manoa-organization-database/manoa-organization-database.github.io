@@ -163,6 +163,7 @@ Admins can click the Edit Interests link to access the interests page, where the
 ## Milestones
 * [M1](https://github.com/manoa-organization-database/manoa-organization-database/projects/1)
 * [M2](https://github.com/manoa-organization-database/manoa-organization-database/projects/3)
+* [M3](https://github.com/manoa-organization-database/manoa-organization-database/projects/4)
 
 ## Team
 [Signed team contract (Google Docs)](https://docs.google.com/document/d/1UChPYIE-sgugvcdFsXJEnXW9ANwPD44ScJRYUDkU3s4/edit?usp=sharing)
