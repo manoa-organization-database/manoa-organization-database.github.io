@@ -122,7 +122,7 @@ Clicking on the Database Link will take you to a page where you can view the clu
 
 Clicking on the Search by Interest Link will take you to a page where you can filter the clubs in the database by one or more interests:
 
-![](doc/interest-search-page.png)
+![](doc/interest-search.png)
 
 Warning: The page will display all clubs that match any of the interests, even if it only matches one.
 
