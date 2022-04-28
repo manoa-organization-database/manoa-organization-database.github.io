@@ -9,7 +9,7 @@
 
 * [Overview](#overview)
 * [Installation](#installation)
-* [Walkthrough](#walkthough)
+* [Walkthrough](#walkthrough)
 * [Deployment](#deployment)
 * [Milestones](#milestones)
 * [Team](#team)
@@ -64,7 +64,7 @@ I20220426-11:00:22.817(-10)? Monti APM: completed instrumenting the app
    Type Control-C twice to stop.   
 ```
 
-If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).  You can login using the credentials in [settings.development.json](https://github.com/manoa-organization-database/manoa-organization-database/blob/master/config/settings.development.json), or else register a new account. The password for the default accounts is "foo".
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).  You can login using the credentials in [settings.development.json](https://github.com/manoa-organization-database/manoa-organization-database/blob/master/config/settings.development.json), or else register a new account.
 
 Lastly, you can run ESLint over the code in the imports/ directory with:
 
