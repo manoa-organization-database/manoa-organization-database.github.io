@@ -161,6 +161,7 @@ Admins can click the Edit Interests link to access the interests page, where the
 
 ## Deployment
 [Digital Ocean deployed application](https://manoa-organization-database.xyz/)
+Feel free to take a few minutes to fill out our [https://docs.google.com/forms/d/e/1FAIpQLSdkIA7rCYJ7TqpH37BMauF7ttJusqyDOsFZYdJTDTCLRt0TcQ/viewform](feedback form) to help us improve our site.
 
 ## Milestones
 * [M1](https://github.com/manoa-organization-database/manoa-organization-database/projects/1)
