@@ -10,7 +10,7 @@
 * [Overview](#overview)
 * [Installation](#installation)
 * [Walkthrough](#walkthrough)
-* [Community Feedback](#community feedback)
+* [Community Feedback](#community-feedback)
 * [Deployment](#deployment)
 * [Milestones](#milestones)
 * [Team](#team)
