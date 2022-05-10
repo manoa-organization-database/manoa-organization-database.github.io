@@ -288,6 +288,17 @@ Feel free to take a few minutes to fill out our [feedback form](https://docs.goo
 * Should be able to search by typing in interests, not just by selecting from a dropdown. *fixed*
 * Functional (if a little bland) in appearance, does its job and nothing more.
 
+### John D.
+* I felt that the sign-up screen was what I expected it would look like. A little bland but simple and easy to use.
+* Be able to add working links to the club page description.
+As with other users, this user noted that:
+* perhaps implementing a search feature to the "interests" dropdown for convenience instead of only being able to scroll down a list of "interests" to find certain "interest". *fixed*
+* scrolling through a list of all the clubs and their descriptions may feel overwhelming and tedious. feels like people are just gonna use the "search by interest option" to find clubs instead.
+
+### Jane D.
+* Include info icon next to interests and clubs to remind users what it could be used for (on the profile/edit profile pages).
+* "Search by interest" tab should be a search bar included in the database tab. 
+
 ## Deployment
 [Digital Ocean deployed application](https://manoa-organization-database.xyz/)
 
