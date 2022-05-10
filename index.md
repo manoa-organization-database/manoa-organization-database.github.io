@@ -269,6 +269,25 @@ Admins can click the Edit Interests link to access the interests page, where the
 ## Community Feedback
 Feel free to take a few minutes to fill out our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdkIA7rCYJ7TqpH37BMauF7ttJusqyDOsFZYdJTDTCLRt0TcQ/viewform) to help us improve our site.
 
+### Kylie T.
+* Expected interests and clubs to be alphabetically sorted in all forms (search, add club, etc.) *fixed*
+* Should be able to filter interests in "Search by Interest" by typing too *fixed*
+* Personal preference, but I think that the format for you "cards" should be more compact, so you can fit more information in less space.
+* Would really appreciate a "back-to-top" button
+
+### Jonah B.
+* Registering users should have an email verification to prevent account theft.
+* Does not allow users to create personalized interests. Lacks customization and individualidity.
+* Some buttons (such as email labels) are not interactable. Making these interactable would improve user functionality and reduce the number of "clicks" this site requires to function.
+* A "back-to-top" function is really needed. The site becomes annoying to scroll through after a while.
+* Filtering interests by "and" rather than "or" would be more useful. For example, if I put "Animals" and "Leisure", I want to be able to find only the clubs that have "Animals" and "Leisure".
+* Character limits for certain fields (name fields most important!). I could fit the entire Bee movie script as my name and it went through.
+
+### Ashley G.
+* The regular club "database" page is kinda useless. Feels like most people will use the "search by interest" page instead.
+* Should be able to search by typing in interests, not just by selecting from a dropdown. *fixed*
+* Functional (if a little bland) in appearance, does its job and nothing more.
+
 ## Deployment
 [Digital Ocean deployed application](https://manoa-organization-database.xyz/)
 
