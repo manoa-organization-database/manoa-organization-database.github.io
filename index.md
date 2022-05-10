@@ -236,7 +236,7 @@ Warning: The page will display all clubs that match any of the interests, even i
 
 ### Club Page
 
-Clicking on either the club card on the database and interest search pages or the club button on your profile will take you to the appropiate club page:
+Clicking on either the club card on the database and interest search pages or the club button on your profile will take you to the appropriate club page:
 
 ![](doc/club-page.png)
 
@@ -277,7 +277,7 @@ Feel free to take a few minutes to fill out our [feedback form](https://docs.goo
 
 ### Jonah B.
 * Registering users should have an email verification to prevent account theft.
-* Does not allow users to create personalized interests. Lacks customization and individualidity.
+* Does not allow users to create personalized interests. Lacks customization and individuality.
 * Some buttons (such as email labels) are not interactable. Making these interactable would improve user functionality and reduce the number of "clicks" this site requires to function.
 * A "back-to-top" function is really needed. The site becomes annoying to scroll through after a while.
 * Filtering interests by "and" rather than "or" would be more useful. For example, if I put "Animals" and "Leisure", I want to be able to find only the clubs that have "Animals" and "Leisure".
