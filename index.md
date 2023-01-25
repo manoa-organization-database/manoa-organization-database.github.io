@@ -1,6 +1,6 @@
 # Manoa Organization Database
 
-![ci-badge](https://github.com/manoa-organization-database/manoa-organization-database/workflows/ci-manoa-organization-database/badge.svg)
+[![ci-meteor-application-template-production](https://github.com/Manoa-Inventory-POST/manoa-inventory-post/actions/workflows/ci.yml/badge.svg)](https://github.com/Manoa-Inventory-POST/manoa-inventory-post/actions/workflows/ci.yml)
 
 ## Github Repository
 [Repository Link](https://github.com/manoa-organization-database/manoa-organization-database)
